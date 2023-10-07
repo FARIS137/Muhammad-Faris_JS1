@@ -84,4 +84,4 @@ function Status(ais) {
   return result;
 }
 
-console.log(Status("pacar")); // Output: "Aku punya hawa yang panas."
+console.log(Status("pacar"));
